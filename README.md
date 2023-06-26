@@ -1,5 +1,3 @@
-![command_line](https://github.com/Klovach/Powershell-Journal/assets/113477921/3a470ab7-c816-4d3a-8c89-efe07c735be4)
-
 ## Powershell-Journal
 This is a powershell journal I have created to prepare for the completion of my technical support certification. Information technology is an important field of study which involves the maintenance of hardware and software. At its core, a computer is a device which stores and processes data by performing calculations. 
 When things go awry, an information technology specialist can diagnose and resolve offending issues to ensure things run as intended for users and businesses.
