@@ -1,0 +1,16 @@
+<#
+IMPORTANT:
+Deleting directories and files is a dangerous operation.
+Do so with great caution and care.
+
+Here are some neccessary commands to memorize:
+Remove-Item: rm
+Remove-Item -Recurse: rm -Recurse
+
+
+Why do we need Recurse?
+Recurse is used to delete a directory and ALL of its contents.
+#>
+
+# Remove a directory : rm -Recurse
+Remove-Item 'yellow folder' -Recurse
